@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: #3A5BA0;
+ background-image: url('/images/bg3.jpg');
     height: 100vh;
     overflow: hidden;
     background-repeat: no-repeat;
